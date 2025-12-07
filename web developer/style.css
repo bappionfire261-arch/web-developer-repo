@@ -67,7 +67,6 @@
  } 
  /* button */
  .brrr {
-  
     font-size: 18px;
     font-weight: 100px 
     text-align: center;
@@ -84,12 +83,127 @@
     margin-top: 32px;
   border: none;
   color: black;
-
-
- 
  }
+/* title section */
+ .title {
+  max-width: 1140px;
+  height: 1393px;
+  background-color: #0d13210a;
+  margin: 0 auto;
+  border-radius: 16px;
+  
+  
+ }
+
+ .title-box {
+  width: 946px;
+  height: 1233px;
+  margin-left: 100px;
+  margin: 0 auto;
+  margin-top: 100px;
+  padding: 80px 97px 80px 97px;
+ }
+
+.shop {
+  font-size: 32px;
+  font-weight: 900px;
+  font-family: Azeret Mono;
+  text-align: center;
+  
+}
+.about {
+  font-size: 16px;
+  font-weight: 400;
+ font-family: Azeret Mono;
+ text-align: center;
+
+
+}
+/* img section */
+.Data {
+ /* display: flex; */
+ /* flex-direction: column;
+ justify-content: center; */
+
+align-items: ;
+ text-align: left;
+  width: 850px;
+  height: 230px;
+}
+.title-fit {
+  max-width: 946px;
+  height: 336px;
+  background-color: white;
+  margin-top: 100px;
+}
+.submit {
+  display: flex;
+  flex-direction: column;
+  justify-content: right;
+  align-items: center;
+  margin-left: 600px;
+  padding: 4px 40px 40px 40px;
+width: 270px;
+height: 140px;
+margin-bottom: 200px;
+}
+.doop {
+  font-size: 24px;
+  font-weight: 700px;
+   font-family: Azeret Mono;
+  text-align: left;
+  padding-top: 20px;
+  
+}
+.good {
+
+}
+
+.web-develop {
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+  text-align: center;
+max-width: 1140px;
+height: 775px;
+margin-left: 150px;
+
+}
+.nebol {
+  font-size: 32px;
+  font-weight: 900px;
+    font-family: Azeret Mono;
+    text-align: center;
+ 
+}
+.nobel {
+  font-size: 16px;
+  font-weight: 400px;
+      font-family: Azeret Mono;
+text-align: center;
+}
+
+.webie {
+
+
+/* align-items: ; */
+
+}
+  .asde {
+border-radius: 16px;
+ 
+}
+.just {
+  max-width: 1090px;
+  height: 608px;
+  padding: 32px;
+  box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.2);
+border-radius: 16px;
+padding: 32px 32px 32px 32px;
+margin: 0 auto;
+
+
+}
  
 
-
-
- 
