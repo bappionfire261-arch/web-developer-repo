@@ -167,6 +167,7 @@ margin-bottom: 200px;
 max-width: 1140px;
 height: 775px;
 margin-left: 150px;
+margin-top: 40px;
 
 }
 .nebol {
@@ -181,6 +182,7 @@ margin-left: 150px;
   font-weight: 400px;
       font-family: Azeret Mono;
 text-align: center;
+margin-top: ;
 }
 
 .webie {
@@ -191,7 +193,7 @@ text-align: center;
 }
   .asde {
 border-radius: 16px;
- 
+ box-sizing: border-box
 }
 .just {
   max-width: 1090px;
@@ -201,9 +203,46 @@ border-radius: 16px;
 border: 1px solid rgba(13, 19, 33, 0.2);
 border-radius: 16px;
 padding: 32px 32px 32px 32px;
-margin: 0 auto;
+
+margin-top: 48px;
 
 
 }
+/* Target section */
+.targets {
+  margin-top: 100px;
+}
+.ship {
+  font-size: 32px;
+  font-weight: 800px;
+  text-align: center;
+}
+.abiut {
+  font-size: 16px;
+  font-weight: 400px;
+  text-align: center;
+}
+
+.what {
+  display: flex;
+  justify-content: center;
+  gap: 24;
+  
+}
+.waht-you {
+  gap: 32;
+padding: 40px;
+border-radius: 16px;
+background: rgba(0, 76, 232, 0.05);
+margin: 24px;
+}
+.br {
+  background-color: #ff4b1e18;
+}
+.ar {
+  background-color: #ffdd0011;
+}
+
+
  
 
